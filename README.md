@@ -1,5 +1,7 @@
 # MatrixionuOS
 
+ - 感谢给我的项目点star的人
+ - Thanks to the people who gave me the project point star
  - This is the main repository for MatrixionuOS and is used as a guide for building MatrixionuOS
  - 一名初中生开发的Linux发行版，基于LingmoOS，一些信息没有修改，原QingmengOS，欢迎加Q群1020613301
  - A Linux distribution, based on LingmoOS, originally QingmengOS. Welcome to QQ group 1020613301
